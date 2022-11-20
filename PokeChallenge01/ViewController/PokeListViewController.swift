@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// 差分
 final class PokeListViewController: UIViewController {
     
     private let model = PokeListModel()
